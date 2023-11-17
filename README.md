@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **vishal.lavangare@outlook.com**
 
+- ⚡ Fun fact **If you're on Github to read fun facts. I'd then apply for jobs on Pinterest.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
