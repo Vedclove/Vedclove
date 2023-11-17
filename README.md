@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
 <h3 align="center">An aspiring Data Engineering</h3>
 
-<img align=“center” width="400" alt=“coding” src="giphy.gif">
+<img align=“right” width="400" alt=“coding” src="giphy.gif">
 
 - 🔭 I’m currently working on **Myself**
 
