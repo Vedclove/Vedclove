@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
 <h3 align="center">An aspiring Data Engineering</h3>
 
-<img align=“right” alt=“coding” src=“[https://giphy.com/gifs/pudgypenguins-data-engineering-doesntlieusXZmmgP9Z7kf39fnq?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdra2tkOG9vaW5naDdoeWloa3h1czQzenM2a2lyYnk5ZHNoZDZtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif)”>
+<img align=“right” alt=“coding” src="giphy.gif">
 
 - 🔭 I’m currently working on **Myself**
 
