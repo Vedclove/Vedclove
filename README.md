@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
 <h3 align="center">An aspiring Data Engineer</h3>
-<img align="right" alt="coding" width="400" src="ezgif-2-6fd95d84b1.gif">
+<img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Kafka, Hadoop & Ruby**
