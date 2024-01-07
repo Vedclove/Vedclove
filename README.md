@@ -3,7 +3,7 @@
 <img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Kafka, Hadoop & Ruby**
+- 🌱 I’m currently learning **Kafka, Hadoop & R**
 
 - 👯 I’m looking to collaborate on **Any Data Science Projects**
 
