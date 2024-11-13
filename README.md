@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
 <h3 align="center">An aspiring Data Engineer</h3>
 <img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Building a LLM for my University**
 
-- 🌱 I’m currently learning **SQL & R**
+- 🌱 I’m currently learning **AWS Sagemaker**
 
 - 👯 I’m looking to collaborate on **Any Data Engineering Projects**
 
-- 📫 Reach me at **vishal.lavangare@outlook.com**
+- 💬 Ask me about **Data Engineering**
 
-- ⚡ Fun fact **If you're on Github to read fun facts. I'd then apply for jobs on Pinterest.**
+- 📫 How to reach me **vishal.lavangare@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
