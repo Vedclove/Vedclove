@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">An Aspiring Data Engineer</h3>
 
-<p align="left"> <img src="ezgif-2-6fd95d84b1.gif" alt="vedclove" /> </p>
+<p align="right"> <img src="ezgif-2-6fd95d84b1.gif" alt="vedclove" /> </p>
 
 - 🔭 I’m currently working on **Building a LLM for my University**
 
