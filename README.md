@@ -1,19 +1,17 @@
-<!--![Background](https://windybot.com/img/KmPAaYy4Qk0MVSDCqZaD.jpg)-->
-<div style="background-image: url('https://windybot.com/img/KmPAaYy4Qk0MVSDCqZaD.jpg'); 
-            background-size: cover; 
-            background-repeat: no-repeat; 
-            padding: 50px; 
-            text-align: center; 
-            color: white;">
-    <h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
-    <h3 align="center">An aspiring Data Engineer</h3>
-    <img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
-    - 🔭 I’m currently working on **Building a LLM for my University**
-    - 🌱 I’m currently learning **AWS Sagemaker**
-    - 👯 I’m looking to collaborate on **Any Data Engineering Projects**
-    - 💬 Ask me about **Data Engineering**
-    - 📫 How to reach me **vishal.lavangare@outlook.com**
-</div>
+<h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
+<h3 align="center">An aspiring Data Engineer</h3>
+<img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
+
+- 🔭 I’m currently working on **Building a LLM for my University**
+
+- 🌱 I’m currently learning **AWS Sagemaker**
+
+- 👯 I’m looking to collaborate on **Any Data Engineering Projects**
+
+- 💬 Ask me about **Data Engineering**
+
+- 📫 How to reach me **vishal.lavangare@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
