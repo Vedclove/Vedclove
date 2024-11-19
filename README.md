@@ -1,3 +1,4 @@
+![Background](https://windybot.com/img/KmPAaYy4Qk0MVSDCqZaD.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Lavangare</h1>
 <h3 align="center">An aspiring Data Engineer</h3>
 <img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
