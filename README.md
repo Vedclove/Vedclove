@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Engineer</h3>
 <img align="right" alt="coding" src="ezgif-2-6fd95d84b1.gif">
 
-- 🔭 I’m currently working on **Building a LLM for my University**
+- 🔭 I’m currently working on **AWS Solutions Architect Certification**
 
 - 🌱 I’m currently learning **AWS Sagemaker**
 
